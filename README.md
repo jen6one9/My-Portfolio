@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # my-portfolio
 
-##Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, I will likely be asked to create a mobile-first application or add responsive design to an existing application. This project allows me to showcase my progression over the course of the next 6 months.
+##Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, I will likely be asked to create a mobile-first application or add responsive design to an existing application. This project allows me to showcase my progression over the course of the next several months.
 
 ## Requirements
-I will use Bootstrap CSS Framework to create a mobile responsive portfolio using the following guidelines:
+I created Bootstrap CSS Framework to create a mobile responsive portfolio using the following guidelines:
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
 * Using Bootstrap, develop my portfolio site with the following items:
    * A navbar
@@ -29,7 +28,3 @@ I will use Bootstrap CSS Framework to create a mobile responsive portfol
 
 ### Bonus Features
 * Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-=======
-
-
->>>>>>> bc3586ad63ed6c3f7bbe973b774dd833df1ce1d9
