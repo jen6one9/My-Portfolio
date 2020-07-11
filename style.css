@@ -2,6 +2,9 @@
     margin-top: 5%;
     padding-top: 5%;
     padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-inline: 5%;
     background-image: linear-gradient(teal,white, gray);
     box-sizing: border-box;
 }
@@ -10,11 +13,6 @@ footer{
         width: 100%;
         height: 5%;
     
-
-
-}
-nav ul{
-        float; right: ;
 }
 my image{
     margin-right: 15px;
