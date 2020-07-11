@@ -1,16 +1,26 @@
 .container{
     margin-top: 5%;
+    padding-top: 5%;
     padding-left: 5%;
     background-image: linear-gradient(teal,white, gray);
     box-sizing: border-box;
 }
 footer{
-    position: center;
         bottom: 0;
         width: 100%;
         height: 5%;
+    
 
 
-}nav ul{
+}
+nav ul{
         float; right: ;
 }
+my image{
+    margin-right: 15px;
+}
+.my-bg-info
+    background-image: linear-gradient(teal,white, gray);
+
+}
+  }
