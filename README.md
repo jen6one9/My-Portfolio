@@ -11,13 +11,13 @@ I created Bootstrap CSS Framework to create a mobile responsive portfoli
    * Responsive images
 
 ## Preview
-
+Please navigate to Issues in the top nav bar and select "Sample Preview".
 
 ## Deployed Site Link
-
+Here's the link to my site: 
 
 ## Acknowledgements
-This application makes use of the following third party library: Unsplash.com
+This application makes use of the following third party library: Unsplash.com.
 Unsplash photos are made to be used freely. Our license reflects that.
 All photos can be downloaded and used for free
 Commercial and non-commercial purposes
