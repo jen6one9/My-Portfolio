@@ -5,7 +5,7 @@
 ## Requirements
 I created Bootstrap CSS Framework to create a mobile responsive portfolio using the following guidelines:
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-* Using Bootstrap, develop my portfolio site with the following items:
+* Using Bootstrap, I developed my portfolio site with the following items:
    * A navbar
    * A responsive layout
    * Responsive images

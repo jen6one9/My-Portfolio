@@ -10,21 +10,24 @@
 
 }
 footer{
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        height: 8%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 4%;
     
 }
-.word-portfolio{
+.text-over-img{
     /* position: absolute; */
-    bottom: 5;
-    
+    /* bottom: 5; */ 
     
 }
  
-
 .portfolio-section{
   position: relative;
 
 }
+
+p {
+    margin-left: auto
+  }
+
