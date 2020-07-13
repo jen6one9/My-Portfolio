@@ -9,7 +9,7 @@
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css" type="text/css">
     <div>
-        
+
 </head>
 
 <body>
@@ -20,9 +20,9 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav ml-auto"></ul>
+            <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="/index.html">About<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/index.html">About Me <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="portfolio.html">Portfolio</a>
@@ -35,35 +35,49 @@
         </div>
     </nav>
 
-    <h3>Portfolio</h3>
     <main class="container">
+        <h3>Portfolio</h3>
         <div class="row">
             <div class="col-md-12">
 
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
-                <img src="./assets/human.jpg" class="img-fluid" alt="Responsive image">
+            <div class="col-md-6 portfolio-section"> 
+                <!-- we inserted a class for the parent and child in order to write text on top of the image. this links to style.css -->
+                <img src="./assets/human.jpg" height="300" width="400" class="img-fluid img-portfolio"
+                    alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
             </div>
             <div class="col-md-6">
-                <img src="./assets/collaboration.jpg" class="img-fluid" alt="Responsive image">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <img src="./assets/great.jpg" class="img-fluid" alt="Responsive image">
-            </div>
-            <div class="col-md-6">
-                <img src="./assets/iphone.jpg" class="img-fluid" alt="Responsive image">
+                <img src="./assets/collaboration.jpg" height="300" width="400" class="img-fluid" alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
-                <img src="./assets/keyboard.jpg" class="img-fluid" alt="Responsive image">
+                <img src="./assets/iphone.jpg" height="300" width="400" class="img-fluid" alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
             </div>
             <div class="col-md-6">
-                <img src="./assets/nerd.jpg" class="img-fluid" alt="Responsive image">
+                <img src="./assets/keyboard.jpg" height="300" width="400" class="img-fluid" alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="./assets/keyboard.jpg" height="300" width="400" class="img-fluid" alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
+            </div>
+            <div class="col-md-6">
+                <img src="./assets/nerd.jpg" height="300" width="400" class="img-fluid" alt="Responsive image">
+                <p class="word-portfolio">Password
+                </p>
             </div>
         </div>
 
@@ -72,9 +86,16 @@
 
     </main>
     <footer class="bg-info">
-        <section>
-            <h6>&copy; Jeneth Diesta, 2020</h6>
-        </section>
+
+        <!-- <section class="text-right"> -->
+
+        <!-- <a  href="https://github.com/jen6one9" i class="fa fa-github fa-2x" aria-hidden="true"></i></a> -->
+        <!-- <a  href="www.linkedin.com/in/jeneth-diesta-b45a6b49"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a> -->
+        <!-- </section>    -->
+        <!-- <section> -->
+        <h6 class="text-center">&copy; Jeneth Diesta, 2020</h6>
+
+        <!-- </section> -->
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

@@ -7,18 +7,24 @@
     padding-inline: 5%;
     background-image: linear-gradient(teal,white, gray);
     box-sizing: border-box;
-}
-footer{
-        bottom: 0;
-        width: 100%;
-        height: 5%;
-    
-}
-my image{
-    margin-right: 15px;
-}
-.my-bg-info
-    background-image: linear-gradient(teal,white, gray);
 
 }
-  }
+footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 8%;
+    
+}
+.word-portfolio{
+    /* position: absolute; */
+    bottom: 5;
+    
+    
+}
+ 
+
+.portfolio-section{
+  position: relative;
+
+}
